@@ -1,0 +1,3 @@
+python-telegram-bot>=22.0,<23.0
+# Opcional, somente se for ativar o Gemini:
+# google-genai>=1.0.0
